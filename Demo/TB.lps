@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="TB.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="67"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="51" Y="50"/>
+        <UsageCount Value="67"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="TelegramApi.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2414"/>
+        <CursorPos X="54" Y="2424"/>
+        <UsageCount Value="59"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="nethelper.pas"/>
+        <UnitName Value="NetHelper"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="75" Y="10"/>
+        <UsageCount Value="16"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../Applications/Lazarus/fpc-trunk/packages/fcl-json/src/fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2923"/>
+        <CursorPos X="9" Y="2923"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../Applications/Lazarus/fpc-trunk/packages/fcl-json/examples/parsedemo.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="68"/>
+        <CursorPos X="29" Y="94"/>
+        <UsageCount Value="6"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../Applications/Lazarus/fpc-trunk/packages/fcl-json/src/jsonparser.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="38"/>
+        <CursorPos X="20" Y="64"/>
+        <UsageCount Value="6"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../Applications/Lazarus/fpc-trunk/packages/fcl-json/src/fpjsonrtti.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <CursorPos X="14" Y="85"/>
+        <UsageCount Value="6"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../../Applications/Lazarus/Components/virtualtreeview-new/trunk/VirtualTrees.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="6"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../Applications/Lazarus/Components/lclextensions/oleutils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="126"/>
+        <CursorPos X="22" Y="131"/>
+        <UsageCount Value="7"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../Applications/Lazarus/fpc-trunk/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="110"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../Applications/Lazarus/fpc-trunk/rtl/objpas/sysutils/sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="833"/>
+        <CursorPos X="3" Y="835"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../ClionProjects/TelegramAPIHeaderMaker/TelegramApi.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1822"/>
+        <CursorPos X="48" Y="1838"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/tmp/xa-epoHgD/udptftpserver.c"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="27" Y="65"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../demos/udptftpclient.c"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="TelegramApi__.pas"/>
+        <UnitName Value="TelegramApi"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1953"/>
+        <CursorPos Y="1965"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../Applications/Lazarus/fpc-trunk/rtl/objpas/objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="8" Y="35"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../TelegramApi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit17>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="2">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="TelegramApi.pas"/>
+        <Line Value="3104"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="TelegramApi.pas"/>
+        <Line Value="3154"/>
+      </Item2>
+    </BreakPoints>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="MethodUrl"/>
+      </Item1>
+      <Item2>
+        <Expression Value="GetQuery"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+</CONFIG>
